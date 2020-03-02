@@ -1,6 +1,6 @@
 # Awesome Pretrained StyleGAN
 
-A collection of pre-trained [StyleGAN](https://github.com/NVlabs/stylegan) models trained on different datasets at different resolution.
+A collection of pre-trained [StyleGAN2](https://github.com/NVlabs/stylegan2) models trained on different datasets at different resolutions.
 
 
 [![](images/thumbs/LSUN%20Bedrooms.jpg)](#LSUN-Bedrooms)
@@ -18,7 +18,7 @@ A collection of pre-trained [StyleGAN](https://github.com/NVlabs/stylegan) model
 [![](images/thumbs/Ukiyo-e%20Faces.jpg)](#Ukiyo-e-Faces)
 [![](images/thumbs/Butterflies.jpg)](#Butterflies)
 
-If you have a publically accessible model which you know of, or would like to share please see the [contributing](#contributing) section. _Hint: the simplest way to submit a model is to fill in this [form](https://forms.gle/rUU9kJf2YaAUhSJ66)._
+If you have a publicly accessible model which you know of, or would like to share please see the [contributing](#contributing) section. _Hint: the simplest way to submit a model is to fill in this [form](https://forms.gle/rUU9kJf2YaAUhSJ66)._
 
 ### Table of Contents
 
