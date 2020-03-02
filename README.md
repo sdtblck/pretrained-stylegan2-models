@@ -1,4 +1,4 @@
-# Awesome Pretrained StyleGAN
+# Awesome Pretrained StyleGAN2
 
 A collection of pre-trained [StyleGAN2](https://github.com/NVlabs/stylegan2) models trained on different datasets at different resolutions.
 
